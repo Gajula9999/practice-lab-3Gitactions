@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://github.com/Gajula9999/practice-lab-3Gitactions",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
